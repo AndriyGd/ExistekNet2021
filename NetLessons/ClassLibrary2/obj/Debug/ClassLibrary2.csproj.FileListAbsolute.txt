@@ -1,0 +1,5 @@
+D:\projects\net\Existek\ExistekNet2121\NetLessons\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\projects\net\Existek\ExistekNet2121\NetLessons\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\projects\net\Existek\ExistekNet2121\NetLessons\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\projects\net\Existek\ExistekNet2121\NetLessons\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
