@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NetLessons",
+    "\\NetLessons\\NetLessons"
   ],
+  "SelectedNode": "\\NetLessons\\NetLessons\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
