@@ -10,6 +10,118 @@ namespace Lesson3
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
+
+            RunLesson4_3();
+
+            Console.ReadKey();
+        }
+
+        public static void RunLesson4_3()
+        {
+            
+            try
+            {
+                Console.Write("Print A: ");
+
+                string a = Console.ReadLine();
+
+                int input = int.Parse(a);
+
+                //var f = input / 0;
+                //Console.WriteLine(f);
+                //int input = int.Parse(null);
+
+                var h = new Human
+                {
+                    Name = "Petro"
+                };
+
+                h.Birthday = new DateTime(1900, 4, 27);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("Не вірний формат даних!");
+                Console.WriteLine();
+                Console.WriteLine(e);
+            }
+            catch (ArgumentNullException e)
+            {
+                Console.WriteLine("Пусте значеня не можна перетворити в число!");
+                Console.WriteLine();
+                Console.WriteLine(e);
+            }
+            catch(HumanException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
+
+        public static void RunLesson4_2()
+        {
+            Animal animal = new Dog();
+            Pitbull pitbull = new Pitbull();
+            Cat cat = new Cat();
+            Animal h = new Huskies();
+
+            Print(animal);
+            Print(pitbull);
+            Print(cat);
+            Print(h);
+
+            Console.WriteLine();
+
+            animal = pitbull;
+            Print(animal);
+        }
+
+        public static void RunLesson4()
+        {
+            Employee h = new Employee
+            {
+                Name = "Ihor",
+                LastName = "Lomn",
+                Birthday = new DateTime(1993, 5, 21),
+                //Sound = "Lenguage",
+                CardId = 5555
+            };
+
+            Console.WriteLine(h);
+
+            var age = h.GetAge();
+            Console.WriteLine(age);
+
+            Human tom = new Employee
+            {
+                Name = "Tom",
+                LastName = "Fort",
+                CardId = 5666,
+                Birthday = new DateTime(1990, 5, 20)
+            };
+
+            var age2 = tom.GetAge();
+            Console.WriteLine(age2);
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Manager m = new Manager("Mmfg", "Golt", new DateTime(1990, 4, 26), 10456);
+
+            Print(h);
+            Print(tom);
+            Print(m);
+
+            Console.ReadKey();
+        }
+
+        public static void RunLesson3()
+        {
             Employee employee = new Employee();
             employee.Name = "Tom";
             employee.LastName = "Fort";
@@ -56,7 +168,7 @@ namespace Lesson3
                 Name = "Ihor",
                 LastName = "Lomn",
                 Birthday = new DateTime(1993, 5, 21),
-                Sound = "Lenguage",
+                //Sound = "Lenguage",
                 CardId = 5555
             };
 
@@ -108,6 +220,15 @@ namespace Lesson3
             {
                 Console.WriteLine($"Salary: {manager.Salary}");
             }
+
+            human.PrintMessage();
+
+            Console.WriteLine($"GetAge: {human.GetAge()}");
+        }
+
+        public static void Print(Animal animal)
+        {
+            Console.WriteLine(animal.Sound());
         }
     }
 }
