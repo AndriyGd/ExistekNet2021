@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace Lesson3
 {
-    public abstract class Animal
+    public class Dog : Animal
     {
-        public string Name { get; set; }
+        public string Species { get; set; }
 
-        public abstract string Sound();
-        public virtual int Add()
+        public override string Sound()
         {
-            return 45;
+            return "Gav-gav-gav";
         }
     }
 }

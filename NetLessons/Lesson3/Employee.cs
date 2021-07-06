@@ -11,9 +11,27 @@ namespace Lesson3
         public int CardId { get; set; }
 
 
-        public override string ToString()
+        //public override string ToString()
+        //{
+        //    base.ToString();
+        //    return $"Name: {Name}\nLast name: {LastName}\nBirthday: {Birthday}\nAge: {GetAge()}\nCardId: {CardId}\nSound: {Sound}\n";
+        //}
+
+        public new int GetAge()
         {
-            return $"Name: {Name}\nLast name: {LastName}\nBirthday: {Birthday}\nAge: {GetAge()}\nCardId: {CardId}\nSound: {Sound}\n";
+            return (DateTime.Now - Birthday).Days;
         }
+
+        public override void PrintMessage()
+        {
+            Console.WriteLine($"From Employee: {Name}");
+        }
+
+        public void BasePrintMessage()
+        {
+            base.PrintMessage();
+        }
+
+        
     }
 }
