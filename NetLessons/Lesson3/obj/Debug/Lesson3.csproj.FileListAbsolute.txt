@@ -1,0 +1,6 @@
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\bin\Debug\Lesson3.exe.config
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\bin\Debug\Lesson3.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\bin\Debug\Lesson3.pdb
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\obj\Debug\Lesson3.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson3\obj\Debug\Lesson3.pdb
