@@ -10,6 +10,11 @@ namespace Lesson3
     {
         public string Species { get; set; }
 
+        public Dog()
+        {
+            var f = 33;
+        }
+
         public override string Sound()
         {
             return "Gav-gav-gav";

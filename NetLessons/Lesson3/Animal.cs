@@ -10,6 +10,11 @@ namespace Lesson3
     {
         public string Name { get; set; }
 
+        public Animal()
+        {
+            var b = 67;
+        }
+
         public abstract string Sound();
         public virtual int Add()
         {
