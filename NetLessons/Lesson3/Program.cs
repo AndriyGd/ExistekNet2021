@@ -12,7 +12,7 @@ namespace Lesson3
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            RunLesson4_3();
+            RunLesson4_2();
 
             Console.ReadKey();
         }
