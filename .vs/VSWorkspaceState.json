@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\NetLessons",
+    "\\NetLessons\\Lesson3",
     "\\NetLessons\\NetLessons"
   ],
-  "SelectedNode": "\\NetLessons\\NetLessons.sln",
+  "SelectedNode": "\\NetLessons\\Lesson3\\HumanException.cs",
   "PreviewInSolutionExplorer": false
 }
