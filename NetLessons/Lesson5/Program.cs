@@ -19,6 +19,11 @@ namespace Lesson5
 
             dlg += pdf.WriteData;
 
+            dlg += (msg) =>
+            {
+                Console.WriteLine(msg);
+            };
+
             Console.WriteLine("----------");
 
             dlg("BADA BUM");

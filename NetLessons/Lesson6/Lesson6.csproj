@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeEventArgs.cs" />
+    <Compile Include="IPerson.cs" />
+    <Compile Include="JuniorEmployee.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
