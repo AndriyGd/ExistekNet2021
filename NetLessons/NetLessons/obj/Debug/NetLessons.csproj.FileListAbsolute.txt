@@ -4,4 +4,3 @@ D:\projects\net\Existek\ExistekNet2121\NetLessons\NetLessons\bin\Debug\NetLesson
 D:\projects\net\Existek\ExistekNet2121\NetLessons\NetLessons\obj\Debug\NetLessons.csproj.CoreCompileInputs.cache
 D:\projects\net\Existek\ExistekNet2121\NetLessons\NetLessons\obj\Debug\NetLessons.exe
 D:\projects\net\Existek\ExistekNet2121\NetLessons\NetLessons\obj\Debug\NetLessons.pdb
-D:\projects\net\Existek\ExistekNet2121\NetLessons\NetLessons\obj\Debug\NetLessons.csproj.AssemblyReference.cache
