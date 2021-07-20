@@ -22,10 +22,19 @@ namespace Lesson9
             //fs.Close();
             //Console.WriteLine("OK");
 
-            
-            var fs = new FileStream("books.bin", FileMode.Open, FileAccess.Read);
-            var dsBook = (Book)bs.Deserialize(fs);
-            PrintPorps(dsBook.GetType(), dsBook);
+
+            try
+            {
+                Console.WriteLine($"Current Dir: {Directory.GetCurrentDirectory()}");
+
+                var fs = new FileStream("books.bin", FileMode.Open, FileAccess.Read);
+                var dsBook = (Book)bs.Deserialize(fs);
+                PrintPorps(dsBook.GetType(), dsBook);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             Console.ReadLine();
         }
