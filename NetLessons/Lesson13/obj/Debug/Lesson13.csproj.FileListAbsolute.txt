@@ -1,0 +1,7 @@
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\bin\Debug\Lesson13.exe.config
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\bin\Debug\Lesson13.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\bin\Debug\Lesson13.pdb
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\obj\Debug\Lesson13.csproj.AssemblyReference.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\obj\Debug\Lesson13.csproj.CoreCompileInputs.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\obj\Debug\Lesson13.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson13\obj\Debug\Lesson13.pdb
