@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\NetLessons",
-    "\\NetLessons\\Lesson10",
-    "\\NetLessons\\Lesson3",
-    "\\NetLessons\\Lesson5",
-    "\\NetLessons\\Lesson8",
-    "\\NetLessons\\NetLessons"
+    "\\NetLessons\\Lesson12"
   ],
-  "SelectedNode": "\\NetLessons\\NetLessons.sln",
+  "SelectedNode": "\\NetLessons\\Lesson12\\Employee.cs",
   "PreviewInSolutionExplorer": false
 }
