@@ -1,7 +1,6 @@
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\bin\Debug\Lesson10.exe.config
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\bin\Debug\Lesson10.exe
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\bin\Debug\Lesson10.pdb
-D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\obj\Debug\Lesson10.exe
 D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson10\obj\Debug\Lesson10.pdb
