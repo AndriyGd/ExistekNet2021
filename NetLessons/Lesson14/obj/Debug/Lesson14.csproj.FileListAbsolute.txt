@@ -1,0 +1,10 @@
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\bin\Debug\Lesson14.exe.config
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\bin\Debug\Lesson14.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\bin\Debug\Lesson14.pdb
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\bin\Debug\Newtonsoft.Json.dll
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\bin\Debug\Newtonsoft.Json.xml
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\obj\Debug\Lesson14.csproj.AssemblyReference.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\obj\Debug\Lesson14.csproj.CoreCompileInputs.cache
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\obj\Debug\Lesson14.csproj.CopyComplete
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\obj\Debug\Lesson14.exe
+D:\projects\net\Existek\ExistekNet2121\NetLessons\Lesson14\obj\Debug\Lesson14.pdb
